@@ -198,14 +198,9 @@ class ManualStrategy(object):
         return df_trades
     
 
-        
-        
-         	   		  	  			  		 			     		  	   		  	  			  		 			     			  	 
-def author(): 
-  return 'gsharoyan3'	   		  	   		  	  			  		 			     			  	 
+         	   		  	  			  		 			     			  	 
   		  	   		  	  			  		 			     			  	 
-if __name__ == "__main__":  		  	   		  	  			  		 			     			  	 
-    print("One does not simply think up a strategy")  	
+if __name__ == "__main__":  		  	   		  	  			  		 			     			  	 	
     
     sym = "JPM"
     comm = 9.95
