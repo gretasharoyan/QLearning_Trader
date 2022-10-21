@@ -474,7 +474,6 @@ class StrategyLearner(object):
   		  	   		  	  			  		 			     			  	 
   		  	   		  	  		  	 
 if __name__ == "__main__":  		  	   		  	  			  		 			     			  	 
-    print("One does not simply think up a strategy")  
     
     sym = "JPM"
     comm = 9.95
